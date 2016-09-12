@@ -1,0 +1,1 @@
+Run this code in background. Now open the Fruit Ninja game in laptop. Using a red coloured sword start playing the game.

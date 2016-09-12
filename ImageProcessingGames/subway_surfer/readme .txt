@@ -1,0 +1,1 @@
+Run this code in background. Now open the subway surfer game in laptop. Attach a red coloured stip to chest and start playing Subway Surfer in front of camera.
